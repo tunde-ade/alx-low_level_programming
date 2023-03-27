@@ -3,6 +3,7 @@
 /**
  * puts2 - print first char of every other string
  * @str: string to be printed
+ * Return: 0
  */
 
 void puts2(char *str)
