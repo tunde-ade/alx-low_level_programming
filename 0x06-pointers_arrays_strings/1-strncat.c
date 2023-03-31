@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _strncat - A function that concantenate two strings
+ * _strncat - concantenates two strings
  * @dest: destination string
  * @src: source string
  * @n: number of char to be append
- * Return: concantenated strings
+ * Return: concantenated string
  */
 
 char *_strncat(char *dest, char *src, int n)
